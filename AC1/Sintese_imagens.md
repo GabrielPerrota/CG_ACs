@@ -11,7 +11,7 @@ glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 cube.draw();
 // Renderização de esfera
 sphere.draw();
-
+```
 Execução:
 
 Abre a janela OpenGL e renderiza os objetos com iluminação.
