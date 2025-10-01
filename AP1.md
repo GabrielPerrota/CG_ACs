@@ -6,7 +6,7 @@ O projeto representa um **astronauta em um ambiente natural**, atravessando uma 
 
 ## 🖼️ Visual do Projeto
 
-![Cenário no Blender](b0978411-a0b2-47dd-b9d0-77e793d0d0b4.png)
+![Cenário no Blender](imagem_2025-10-01_181522216.png)
 
 ## 🎨 Recursos Utilizados
 - **Blender 4.5.3 LTS**
